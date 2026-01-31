@@ -8,7 +8,7 @@ let operator = "";
 // Default screen
 screen.textContent = "0";
 
-// Function: Calculate
+// calculate krne ke liye
 function calculate() {
   const a = parseFloat(previous);
   const b = parseFloat(current);
