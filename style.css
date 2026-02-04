@@ -36,6 +36,7 @@ div {
   background: #2c2c44;
   padding: 20px;
   border-radius: 15px;
+  border: #9696bb 2px solid;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
   margin: 5%;
 }
